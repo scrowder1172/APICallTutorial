@@ -1,8 +1,8 @@
 # API Call Tutorial
 
-## <a href="https://medium.com/@jpmtech">Chase on Medium.com</a>
+## Based off <a href="https://medium.com/@jpmtech">Chase on Medium.com</a>
 
-This is from Chase's Medium articles about calling APIs from iOS apps. This project creates an iOS app that calls APIs from https://jsonplaceholder.typicode.com
+This is based off Chase's Medium articles about calling APIs from iOS apps. This project creates an iOS app that calls APIs from https://jsonplaceholder.typicode.com
 
 ## Article Link
 
