@@ -10,6 +10,10 @@ Most of the code is based off Chase's article: https://medium.com/@jpmtech/make-
 
 <br>The searching was added based off Chase's article: https://medium.com/@jpmtech/how-to-add-search-to-your-swiftui-app-2d724bf72c16
 
+### Branch Information
+
+This branch will be developing a Maps() view to show geographic location of the users.
+
 ### Personal Additions
 
 * Code improvements: Chase's original article was written in February 2023. I updated the code based off iOS 17 improvements (e.g. @Observable instead of Observable protocol). I also built navigation for more details
